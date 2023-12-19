@@ -1,0 +1,118 @@
+/*body{
+    background-color: aqua;
+}
+h2{
+    border: 2px solid blue;
+    border-color: black;
+    padding: 3px green;
+    margin: 1px yellow;
+}
+frame{
+    border: gold solid green;
+    background-color: blue;
+    padding: 31px;
+    margin: 2px;
+}
+
+a:link{
+     text-decoration: none;
+     background-color: black;
+     color: beige;
+     padding:
+}
+
+a.visited{
+    text-decoration: underline;
+};
+a.hover,a.active{
+    text-decoration: underline;
+    font-size: 60px;
+    color:white;
+}
+
+ul{
+    list-style: circle;
+}
+li{
+    display: inline;
+}
+div{
+     visibility:hidden;
+}
+label{
+    display: block;
+    position: absolute;
+    right: 10px;
+}*/
+
+body{
+    margin: 0;
+    padding:0;
+    background: url(bussinessPlan-amico.png);
+    background-size: cover;
+    background-color: #f2f2f2;
+
+}
+
+.title{
+    text-align: center;
+    padding: 50px 0 20px;
+}
+.title h1{
+    margin: 0;
+    padding: 0;
+    color: grey;
+    text-transform: uppercase;
+    font-size: 36px;
+}
+.container{
+     width: 50%;
+     height: 400px;
+     background-size:#fff ;
+     margin: auto;
+     border: 2px solid #fff;
+}
+
+.container .left{
+    float: left;
+    width: 50%;
+    height: 400px;
+    background: url(businessPlan-amico.png);
+    background-size:cover;
+    box-sizing:border-box;
+}
+.container .right{
+    float:right;
+    width: 50%;
+    height: 400px;
+    box-sizing: border-box;
+}
+.formbox{
+    width: 100%;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    height: 400px;
+    background: #fff;
+}
+.formbox p {
+    margin: 0%;
+    padding: 0;
+}
+
+/*div{
+   width: 500px;
+    height: 200px;
+    border:2px solid ;
+   overflow-x: hidden;
+    overflow-x: auto ;
+    float: right;
+    opacity: 0.5;
+    width: 100px;
+    height:10px ;
+    border: 2px solid;
+    position: sticky;
+    top: 0px;
+    font-family:'Times New Roman', Times,serif;
+
+    
+}*/
